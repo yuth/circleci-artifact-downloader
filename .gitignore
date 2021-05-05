@@ -1,0 +1,6 @@
+.env
+node_modules/
+downloads/
+.DS_Store
+lib
+downloads-flat/
