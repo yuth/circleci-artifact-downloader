@@ -5,6 +5,8 @@ This is an utility script to download all the CircleCI artifacts that were produ
 The scripts expects the following environment variables to be set for it to work
 ```
 CIRCLE_CI_TOKEN=<your token>
+REPO_OWNER=<your github user name>
+REPO_NAME=<github project>
 ```
 
 ```bash
